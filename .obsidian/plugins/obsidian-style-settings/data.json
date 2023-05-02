@@ -1,0 +1,11 @@
+{
+  "things-style@@strong-color": "#E8912D",
+  "things-style@@code-normal": "#98C379",
+  "things-style@@code-color-d": "#98C379",
+  "things-style@@h2-underline": false,
+  "things-style@@h2-color": "#DEDEDE",
+  "things-style@@h3-color": "#E1E1E1",
+  "things-style@@h4-color": "#E5E5E5",
+  "things-style@@h5-color": "#E5E5E5",
+  "things-style@@h6-color": "#E5E5E5"
+}
