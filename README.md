@@ -1,0 +1,1 @@
+#todo create a #demo vault to provide a guide and template for how I like to (currently) use obsidian
