@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "daily-todos-template",
+      "path": "_templates/daily-todos-template.md"
+    },
+    {
+      "basename": "ticket-template",
+      "path": "_templates/ticket-template.md"
+    },
+    {
+      "basename": "daily-todos",
+      "path": "hubs/daily-todos.md"
+    },
+    {
+      "basename": "project-hub-template",
+      "path": "_templates/project-hub-template.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     }
