@@ -1,4 +1,4 @@
-work-period:: #Y2023Q2
+work-period:: #Y2023Q1 
 
 > [!todo]
 > Tickets currently in progress:
@@ -30,20 +30,6 @@ work-period:: #Y2023Q2
 > where status = " #in-review "
 > ```
 
-# 2023-05-07
+# 2023-02-25
 
-- [x] create two sample projects
-- [x] create ticket index template
-- [x] create ticket index
-- [x] create sample tickets
-
-# 2023-05-06
-
-- [x] create daily todos template
-- [x] create daily todos tracker for #Y2023Q2 
-- [x] create project hub template
-- [ ] create two sample projects
-- [ ] create ticket index template
-- [ ] create ticket index
-- [x] create ticket template
-- [ ] create sample tickets
+- [ ] do stuff

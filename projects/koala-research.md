@@ -1,9 +1,9 @@
-project::
-active work periods: ` $= dv.pages('"tickets"').where(p => p.project.includes(dv.current().project))['work-period'].distinct().sort().join()`
+project:: #proj/koala
+active work periods: `$= dv.pages('"tickets"').where(p => p.project.includes(dv.current().project))['work-period'].distinct().sort().join()`
 
 # Ticket index
 
-```datavieww
+```dataview
 table without id
     work-period
     , status
