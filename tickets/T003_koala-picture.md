@@ -3,7 +3,8 @@ project: " #proj/koala "
 work-period: " #Y2023Q2 "
 status: " #complete "
 results:
-    - ""
+    - "[pic 1](https://images.app.goo.gl/eP1LghP9cWdbgo726)"
+    - "[pic 2](https://images.app.goo.gl/DYDeJFmLbvpfh98s8)"
 ---
 
 - Ticket: `=choice(regextest("^T\d+_", this.file.name), "[" + split(this.file.name, "_")[0] + "](http://tracking.website.com/" + split(this.file.name, "_")[0] + ")", "n/a")`
