@@ -30,6 +30,22 @@ work-period:: #Y2023Q2
 > where status = " #in-review "
 > ```
 
+> [!attention]
+> Tickets currently blocked or on hold:
+> ```dataview
+> table without id
+>     project
+>     , status
+>     , choice(
+>         regextest("^T\d+_", file.name)
+>         , "[" + split(file.name, "_")[0] + "](http://tracking.website.com/" + split(file.name, "_")[0] + ")"
+>         , "n/a"
+>     ) as ticket
+>     , file.link as obsidian_note
+> from "tickets"
+> where status = " #blocked " or status = " #on-hold "
+> ```
+
 # 2023-05-07
 
 - [x] create two sample projects
