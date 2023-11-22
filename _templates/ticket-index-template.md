@@ -1,4 +1,4 @@
-Valid ticket statuses: #not-started #in-progress #in-review #blocked #on-hold #complete #abandoned
+Valid ticket statuses: #not-started #in-progress #in-review #blocked #on-hold #complete #abandoned #reassigned #backlog
 
 work-period::
 
